@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
-
+# NO LONGER NEEDED
 def plot_learning_curve(aer_history, save_path=None):
     """Plot average error rate over time"""
     plt.figure(figsize=(10, 6))
