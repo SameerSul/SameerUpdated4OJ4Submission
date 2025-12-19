@@ -16,7 +16,7 @@ python standardize_data.py
 ```
 
 It should show you the analysis and comparison below:
-
+```
 ==================================================
 EXPERIMENTAL EVIDENCE: BASELINE VS OPTIMIZED
 ==================================================
@@ -35,3 +35,4 @@ OPTIMIZED (1 channels):
 CONCLUSION: Masking reduced compute by 50% with an
 AER change of -0.0068 [note that this value does change but it should be around the same with each iteration due to variation]
 ==================================================
+```
